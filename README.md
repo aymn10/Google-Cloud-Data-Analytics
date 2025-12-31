@@ -1,7 +1,9 @@
-# Google-Cloud-Data-Analytics
-This repository tracks my ongoing learning journey in the Google Cloud Data Analytics program by Google on Coursera, focused on cloud-based data analytics and hands-on experience with Google Cloud tools.
+# ☁️ Google Cloud Data Analytics
+
+This repository tracks my **ongoing learning journey** in the Google Cloud Data Analytics program by Google on Coursera, focused on cloud-based data analytics and hands-on experience with Google Cloud tools.
 
 ---
+
 ## 📘 Progress & Topics Covered
 
 ### ✅ Course 1: Introduction to Data Analytics in the Cloud (Completed)
@@ -16,23 +18,25 @@ https://www.coursera.org/account/accomplishments/verify/VGGJV1F7KC7Q
 
 ---
 
-### ⏳ Course 2: Data Management and Storage in the Cloud (Ongoing)
+### ✅ Course 2: Data Management and Storage in the Cloud (Completed)
 - Cloud data storage concepts  
 - Data warehouses vs data lakes  
-- Introduction to BigQuery  
+- BigQuery fundamentals  
 - Managing datasets and tables  
 - SQL-based querying in the cloud  
 
-🔗 Course link:  
-https://www.coursera.org/learn/data-management-and-storage-in-the-cloud  
+🔗 Certificate:  
+https://www.coursera.org/account/accomplishments/verify/UMZP95RVC0AR  
+
+---
+
+### ⏳ Course 3: (Ongoing)
+- Advanced data processing concepts  
+- Query optimization and performance  
 
 ---
 
 ## 📅 Planned Courses
-
-### 🔹 Course 3
-- Advanced data processing concepts  
-- Query optimization and performance  
 
 ### 🔹 Course 4
 - Analytics workflows and integration  
@@ -62,8 +66,9 @@ Practical experience using **Google Cloud Skills Boost / Qwiklabs**, including:
 
 ## 📌 Status
 - Program: **Ongoing**
-- Current course: **Course 2**
-- Planned: **Courses 3–5**
+- Completed: **Courses 1 & 2**
+- Current: **Course 3**
+- Planned: **Courses 4–5**
 
 ---
 
